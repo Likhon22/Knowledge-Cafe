@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "title": "Top 10 ES6 Features You Must Know",
+    "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+
+    "author": "Hamza Sohail",
+    "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+    "posted_date": "September 15, 2023",
+    "reading_time": 5,
+    "hashtags": ["beginners", "es6"]
+  },
+
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+    "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+    "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+    "author": "Sajal Ali",
+    "posted_date": "August 28, 2023",
+    "reading_time": 4,
+    "hashtags": ["javascript", "coding", "dev"]
+  },
+  {
+    "id": 3,
+    "title": "Web Development Trends",
+    "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+    "author": "Emily Brown",
+    "author_img": "https://i.ibb.co/ZLcWDmX/boy1.png",
+    "posted_date": "October 25, 2023",
+    "reading_time": 12,
+    "hashtags": ["webdev", "technology", "programming"]
+  },
+  {
+    "id": 4,
+    "title": "Free images and resources collection for website",
+    "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+    "author": "Anmol Baloch",
+    "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+
+    "posted_date": "June 5, 2023",
+    "reading_time": 9,
+    "hashtags": ["development", "resources"]
+  }
+]
